@@ -1,0 +1,29 @@
+{
+  "transactions": [
+    {
+      "payee": "Walmart",
+      "category": "Groceries",
+      "amount": -50
+    },
+    {
+      "payee": "Starbucks",
+      "category": "Restaurants",
+      "amount": -5
+    },
+    {
+      "payee": "Fancy Steak Place",
+      "category": "Restaurants",
+      "amount": -75
+    },
+    {
+      "payee": "Inn N Out Burger",
+      "category": "Restaurants",
+      "amount": -35
+    },
+    {
+      "payee": "Work",
+      "category": "Income",
+      "amount": 200
+    }
+  ]
+}
