@@ -6,6 +6,11 @@
       "amount": -50
     },
     {
+      "payee": "Walmart",
+      "category": "Groceries",
+      "amount": -38
+    },
+    {
       "payee": "Starbucks",
       "category": "Restaurants",
       "amount": -5
@@ -24,6 +29,16 @@
       "payee": "Work",
       "category": "Income",
       "amount": 200
+    },
+    {
+      "payee": "Bashas",
+      "category": "Groceries",
+      "amount": -12.99
+    },
+    {
+      "payee": "Bashas",
+      "category": "Groceries",
+      "amount": -112.99
     }
   ]
 }
