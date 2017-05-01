@@ -39,6 +39,11 @@
       "payee": "Bashas",
       "category": "Groceries",
       "amount": -112.99
+    },
+    {
+      "payee": "Fry's",
+      "category": "Groceries",
+      "amount": -1.02
     }
   ]
 }
