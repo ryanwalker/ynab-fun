@@ -16,6 +16,7 @@ To view the report, run the following script
 ```
 
 ## Build and run locally
+You'll need a java 8 development environment setup for this:
 ```
 ./gradlew bootRun
 ```
