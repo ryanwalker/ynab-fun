@@ -19,7 +19,7 @@ public class YnabReportController {
 
     @RequestMapping(value = "/")
     public String helloYNAB() {
-        return "Hello YNAB! <br />" + new Date();
+        return "Hello there YNAB! <br />" + new Date();
     }
 
     @RequestMapping(method = RequestMethod.POST, value = "/report", consumes = MediaType.APPLICATION_JSON_VALUE)
