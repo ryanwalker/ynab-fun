@@ -4,6 +4,7 @@ package com.ryanwalker.domain;
 import com.ryanwalker.rest.api.request.Transaction;
 import com.ryanwalker.rest.api.request.TransactionList;
 
+import java.math.BigDecimal;
 import java.util.Map;
 import java.util.TreeMap;
 

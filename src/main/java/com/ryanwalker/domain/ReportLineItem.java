@@ -57,6 +57,7 @@ public class ReportLineItem {
     }
 
     public void setRunningTotal(BigDecimal runningTotal) {
-        this.runningTotal = runningTotal;
+        //Always have 2 decimal places
+        this.runningTotal = runningTotal.setScale(2, BigDecimal.ROUND_HALF_UP);
     }
 }
