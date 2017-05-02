@@ -3,7 +3,7 @@
 ## Summary
 I solved the coding problme here: https://www.interviewzen.com/interview/3NNWPcF
 
-I created a Spring Boot java application that gets built and tested in CircleCi and deploys automatically to Heroku.
+I cleaned it up a bit and turned it into a Spring Boot java microservice. It gets built and tested in CircleCi and deploys automatically to Heroku.
 
 It's deployed here: https://ynab-fun.herokuapp.com
 
